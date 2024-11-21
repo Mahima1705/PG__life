@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/20f974e5-c2fd-45bb-9b0a-8bf53633227c
 # 💡 Getting Started
 *Clone the repository*:  
 
-git clone https://github.com/Mahima1705/PG__life.git  
+git clone https://github.com/Mahima1705/PGlife_website.git  
 
 Import the pg_life.sql file into your MySQL database.  
 
